@@ -108,3 +108,23 @@ span.intro {
     top: 780px;
     position: relative;
   }
+
+  #hanging-icons {
+    background-color: red;
+    margin-bottom: -100px;
+  }
+
+  #experience {
+    background-color: white;
+    opacity: .9;
+    margin: auto;
+    border-radius: 10px;
+  }
+
+  ul.lead {
+    margin-left: 15px;
+  }
+
+  div.lead {
+    margin-left: 15px;
+  }
