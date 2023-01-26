@@ -119,12 +119,9 @@ span.intro {
     opacity: .9;
     margin: auto;
     border-radius: 10px;
+    padding: 15px;
   }
 
   ul.lead {
-    margin-left: 15px;
-  }
-
-  div.lead {
     margin-left: 15px;
   }
